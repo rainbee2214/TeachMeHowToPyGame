@@ -1,6 +1,6 @@
 ## Teach Me How to PyGame
 
-During the event, a group of students each followed along to create a version of snake_z (black version). I created the white version before the event so we could recreate the game step by step.
+During the event, a group of students each followed along to create a version of snake_z (black version). I created the white version (snake_z_pre.py) before the event so we could recreate the game step by step.
 
 ![snake_z](snake_z_screenshot.png)  
 
